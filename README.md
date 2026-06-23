@@ -216,7 +216,9 @@ Small differences between individual runs are expected because of finite-chain M
 
 Please cite the associated paper when using this code or the derived data products:
 
-> Hu, J., Liu, Y., Hu, J.-P., & Li, Z. (2026). *A model-independent test of the cosmic distance-duality relation using galaxy clusters and Type Ia supernovae matched pairs*. Astronomy & Astrophysics, in press.
+> Hu, J., Liu, Y., Hu, J.-P., & Li, Z. (2026). A model-independent test of the cosmic distance-duality relation using galaxy clusters and Type Ia supernovae matched pairs. *Astronomy & Astrophysics*, Forthcoming article. https://doi.org/10.1051/0004-6361/202659255
+
+**BibTeX:**
 
 ```bibtex
 @article{Hu2026CDDRMatchedPairs,
@@ -224,7 +226,9 @@ Please cite the associated paper when using this code or the derived data produc
   title   = {A model-independent test of the cosmic distance-duality relation using galaxy clusters and Type Ia supernovae matched pairs},
   journal = {Astronomy \& Astrophysics},
   year    = {2026},
-  note    = {In press}
+  doi     = {10.1051/0004-6361/202659255},
+  url     = {[https://doi.org/10.1051/0004-6361/202659255](https://doi.org/10.1051/0004-6361/202659255)},
+  note    = {Forthcoming article}
 }
 ```
 
